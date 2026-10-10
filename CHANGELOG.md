@@ -1,6 +1,9 @@
 # Changelog
 
 ## [Unreleased]
+### Changed
+- Updates to extents
+
 ## [1.5.0] - 2026-10-10
 ### Added
 - Grids for Mayotte and Reunion
