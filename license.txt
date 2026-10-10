@@ -41,6 +41,11 @@ provider and not on a value ascribed to the EPSG Dataset which is made available
 Please see https://epsg.org/terms-of-use.html for full terms of use if you wish to reuse the dataset files outside of
 PHPCoord.
 
+GGM23v2 and RAR07 height grids from IGN France / Licence Ouverte Etalab 2.0
+https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Open_Licence.pdf
+
+RGM04versRGM23.txt from IGN France (https://geodesie.ign.fr/files/geodesie/2024-11/RGM04versRGM23.txt, downloaded 20261003), Licence Ouverte Etalab 2.0.
+
 Grid from Chief Directorate: National Geospatial Information (CDNGI), Branch: National Geomatics Management Services (NGMS),
 Department of Agriculture, Land Reform and Rural Development (DALRRD), South Africa
 Creative Commons Attribution 4.0 International
